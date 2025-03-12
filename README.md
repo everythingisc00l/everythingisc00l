@@ -4,4 +4,4 @@
 - ⚡ I’m currently PhD student at ITMO
 - 🌱 I’m currently learning CUDA Optimization, LLMs and CV systems.
 
-_for all questions_ **contact@manzhosgennadiy.ru**
+_for all questions_ **manzhos_gy@pimunn.net**
